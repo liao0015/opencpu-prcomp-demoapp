@@ -14,10 +14,14 @@ This is an independent package developed using <a href="https://www.opencpu.org/
 <a href="http://34.223.213.252/ocpu/library/prcompdemo">Demo web application</a>
 
 ## How to make a request to the server
-You can develop your own web application and directly interact with the public server by making Ajax request
-Results will be returned as
-1.file list
-2.array
+You can develop your own web application and directly interact with the public server by making Ajax request.
+
+Results will be returned as:
+
+1. File list
+
+2. Array
+
 You can either access the files on server and read out the data OR you can direactly capture the data by calling `getObject()`.
 Details about how to make Ajax call can be found in folder `inst/www/main.js`.
 
